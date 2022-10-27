@@ -13,7 +13,7 @@
 .confira{padding-left: 100px;; padding-top: 10px;padding-right:30PX; color: #2b193dd5;}
 .publico{font-size: 13px;padding-right: 150px;padding-left: 4px;}
 @media screen and(min-width:300) and(max-width:600) {
-  html,body{width: 100%;}
+  html,body,main{width: 100vw;}
   *{margin: 0;
   padding: 0;}
   

@@ -14,12 +14,15 @@
 .confira{padding-left: 100px;; padding-top: 10px;padding-right:30PX; color: #2b193dd5;}
 .publico{font-size: 13px;padding-right: 150px;padding-left: 4px;}
 @media screen and(min-width:300) and(max-width:600) {
-  html,body{width: 100vw;
+  html,body,section{width: 100vw;
   height: 100vh;}
   main{width: 100vw;
     position: relative;
   height: 100vh;}
- 
+  section#ins{ width: 50vw;
+  height: 300vh; position: absolute;
+  top:50%;
+right: 50%;}
   
   
 }

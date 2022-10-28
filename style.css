@@ -7,7 +7,7 @@
 }
 .medico{width: 490px;padding-top: 60px;margin-left: -120px;margin-bottom: -200px;height: 500px;}
 
-.dados1{background-image: url(imgs/bottom.png);}
+.dados1{}
 .hea{border: 2px solid;}
 .ins{background-color: #fb0101f1;width: 485px;margin-left: -10px;margin-top: -20px;min-width: 300px; color: white;}
 .vivo{background-color:#015656cb;width: 482px;height: 250px;margin-left: -7px;margin-top: -20px;}
@@ -20,7 +20,7 @@
 .viv{margin-top: -120px;padding-bottom: 30px;}
 .img{width: 160px;padding-left: 257px;}
 .tivo{margin-top: -150px;padding-left: 10}
-.mais{margin-top: -40px; color: white;padding-bottom: 10px;}
+.mais{margin-top: 30px; color: white;padding-bottom: 10px;padding-left: 20px;}
 .it{margin-top: -20px; background-color: red; border-color: red; border-radius: 10px; color: white;}
 .agora{margin-left: 150px;margin-bottom: 10px; background-color: #12b7b7f1; border-color: #12b7b7f1;border-radius: 5px; font-size: 20px;}
 .coli{background-color: #106e6ef1;}

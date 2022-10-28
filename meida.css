@@ -1,0 +1,16 @@
+@charset "UTF-8"; 
+
+@media screen and(min-width:300) and(max-width:600) {
+  
+  html,body,section{width: 100%
+ }
+  main{width: 100%;
+    position: relative;
+  height: 100%}
+  section#ins{
+  height: 300vh; position: flex;
+ width: 100%;
+  }
+  
+  
+}

@@ -1,11 +1,16 @@
 @charset "UTF-8"; 
 
-@media  (min-width:320) and (max-width:600) {
+@media screen and (min-width:300) and (max-width:500){
   *{padding-right: 0px;margin-right: 0px; padding: 0px; margin: 0px;}
-  html,body,section{width: 100%;padding-right: 0px;
+  html,body,section{width: 100%;padding-right: 0px; 
+  }
+  section#hear{width: 100%; margin-right: 0px;}
+  section#bac{width: 100%; margin-right: 0px;}
+}
+  
   
  
 
-  }
   
-}
+  
+

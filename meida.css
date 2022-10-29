@@ -1,14 +1,11 @@
 @charset "UTF-8"; 
 
-@media  (min-width:300) and (max-width:600) {
-  *{padding-right: 0%;margin-right: 0%;}
-  html,body,section{width: 90%;padding-right: 0%;
+@media  (min-width:320) and (max-width:600) {
+  *{padding-right: 0px;margin-right: 0px; padding: 0px; margin: 0px;}
+  html,body,section{width: 100%;padding-right: 0px;
   
- }main > p{width: 90%; padding-right: 300px;} 
-  main{width: 100%;
-    position: relative;
-  height: 100%}
+ 
 
-  
+  }
   
 }

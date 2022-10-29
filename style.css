@@ -125,6 +125,7 @@
   border-color: red;
   border-radius: 10px;
   color: white;
+  margin-bottom: 5%;margin-left: 5%;
 }
 .agora {
  margin-left: 25%;
@@ -148,7 +149,7 @@
 .phisio {
   font-size: 9px;
 }
-.img1{width: 45%; margin-top: -79%;padding-left: 50%;
+.img1{width: 50%; margin-top: -79%;padding-left: 50%;
   }
 
 .noses{width: 100%;display: block;}
@@ -160,3 +161,6 @@ display: block;}
 
 .img2{width: 60%;padding-left: 96%;margin-top: -10em;}
 .liy{padding-left: 5%;padding-right: 45%;padding-bottom: 5%;padding-top: 5%;}
+footer{width: 100%; background-color: rebeccapurple;}
+.vivt{padding-left: 5%;padding-bottom: 0%;}
+.colir{color: rgb(255, 0, 0); }

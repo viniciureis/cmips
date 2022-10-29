@@ -3,7 +3,8 @@
 @media screen and(min-width:300) and(max-width:600) {
   
   html,body,section{width: 100%
- }
+  
+ }main > p{width: 100%; padding-right: 300px;} 
   main{width: 100%;
     position: relative;
   height: 100%}

@@ -1,7 +1,7 @@
 @charset "UTF-8"; 
 
 @media  (min-width:300) and (max-width:600) {
-  
+  *{padding-right: 0%;margin-right: 0%;}
   html,body,section{width: 90%;padding-right: 0%;
   
  }main > p{width: 90%; padding-right: 300px;} 

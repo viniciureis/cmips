@@ -1,5 +1,7 @@
 @charset "UTF-8";
-
+  body {
+  margin: 0;
+  }
     .congresso {
   font-size: 20px;
   padding-left: 20px;
@@ -148,19 +150,17 @@
 
 }
 .aber {
-  font-size: 10px;min-width: 300;
+  font-size: 10px;
 }
 .phara {
   font-size: 9px;
-  min-width: 300;
 }
 .phisio {
   font-size: 9px;
-  min-width: 300;
 }
 .img1{width: 45%; margin-top: -79%;padding-left: 50%;}
 
-.noses{width: 100%;min-width: 300;}
-.heder{width: 100%;min-width: 300;}
+.noses{width: 100%;}
+.heder{width: 100%;}
 .omo{padding-left: 5% ; padding-right: 35%;}
-.img2{width: 50%;padding-left: 21.5em;margin-top: -10em;}
+.img2{width: 60%;padding-left: 96%;margin-top: -10em;}

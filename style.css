@@ -43,14 +43,13 @@ body {
   height: 500px;
 }
 
-.dados1 {
-}
+.dados1{width: 100%;padding-left: 5%;}
 .hea {
   border: 2px solid;
 }
 .ins {
   background-color: #fb0101f1;
-  width: 101.5%;
+  width: 100%;
 
   margin-top: -20px;
   min-width: 300px;
@@ -58,7 +57,7 @@ body {
 }
 .vivo {
   background-color: #015656cb;
-  width: 101.5%;
+  width: 100%;
   height: 250px;
   
   margin-top: -20px;
@@ -71,7 +70,7 @@ body {
 }
 .publico {
   font-size: 13px;
-  padding-right: 280px;
+  padding-right: 50%;
   padding-left: 4px;
 }
 .border {
@@ -156,3 +155,4 @@ body {
 .phisio {
   font-size: 9px;
 }
+.img1{width: 45%; margin-top: -79%;padding-left: 50%;}

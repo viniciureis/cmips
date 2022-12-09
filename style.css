@@ -59,7 +59,7 @@
   .fht{background-color:#847E89 ;}
   #mn{margin-top: -80px;}
   #nm{margin-top: -129px;padding-bottom: 40px;}
-.video{justify-items: center;padding-left: 500px;height: 400px;  }
+.video{padding-left: 500px;height: 400px;  }
 .nb{background-color: black;}
 
   @media(min-width:1500px){
@@ -76,4 +76,5 @@
     .grid2{display: grid;
     grid-template-columns: 1fr;}
     .informa{margin-left: 30px; font-size: 20px;}
+    .video{padding-left:none ;}
   }

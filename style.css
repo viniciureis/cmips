@@ -77,4 +77,9 @@
     grid-template-columns: 1fr;}
     .informa{margin-left: 30px; font-size: 20px;}
    .video{height: 260px; padding-left: 90px;}
+   .curi{display: grid;
+  grid-template-columns: 1fr;}
+  .img1{width: 330px;margin-left: 10px;margin-top: -80px;}
+  .academia{margin: 0px; width: 70%;padding-left: 50px;}
+  .gh{display: none;}
   }

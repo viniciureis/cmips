@@ -68,8 +68,9 @@
     .th{width: 45%;margin-left: 140px;}
     
   }
-  @media(max-width:600px){*body{width: 100%;margin: 0px;}
-    .grid1{display: grid;
+  @media(max-width:600px){*body{width: 70%;margin: 0px; padding: 0px;}
+  main{margin: 0px; width: 70%;}
+    .grid1{display: grid; 
     grid-template-columns: 1fr 1fr;}
     .grid{display: grid;
     grid-template-columns: 1fr;}
@@ -79,8 +80,10 @@
    .video{height: 260px; padding-left: 90px;}
    .curi{display: grid;
   grid-template-columns: 1fr;}
-  .img1{width: 130px;margin-top: -80px;margin-left: 10px;}
+  .img1{width: 230px;margin-top: -80px;margin-left: 10px;}
   .academia{margin: 0px; width: 70%;padding-left: 50px;}
   .gh{display: none;}
   .whats{margin-left: -10px; }
+  .gj{margin-left: 80px;}
+  .informa{font-size: 14px; margin-right: 0px;}
   }

@@ -69,7 +69,7 @@
     
   }
   @media(max-width:600px){*body{width: 80%;margin: 0px; padding: 0px;}
-  main{margin: 0px; width: 80%;}
+  main{margin: 0px; width: 79%;}
     .grid1{display: grid; 
     grid-template-columns: 1fr 1fr;}
     .grid{display: grid;
@@ -86,4 +86,5 @@
   .whats{margin-left: -10px; }
   .gj{margin-left: 80px;}
   .informa{font-size: 14px; margin-right: 0px;}
+  .sli{width: 100%;}
   }
